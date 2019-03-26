@@ -1,5 +1,5 @@
 ### Flappy-Bird
-##Simple Flappy-Bird game made with borland graphics.h.
+## Simple Flappy-Bird game made with borland graphics.h.
 
 ![pic1](https://user-images.githubusercontent.com/44777596/54880233-4a71da80-4e4b-11e9-8c79-35a44baf35b6.png)
 
